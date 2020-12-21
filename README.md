@@ -2,7 +2,7 @@
 
 # Data
 
-*pf3k_filt.tab* : filtered SNPs from Pf3K data release 5.1 as described in Methods
+*pf3k_filt.tab* : filtered SNPs from Pf3K data release 5.1 ((https://www.malariagen.net/data/pf3k-5)) as described in Methods
 
 *example_ms.tab*: example coalescent simulated sequence data ("") generated using msprime
 
